@@ -29,7 +29,7 @@ include('includes/dbconnection.php');
 
 <body>
     <!-- banner-inner -->
-    <div id="demo-1" data-zs-src='["images/1.jpg", "images/2.jpg","images/3.jpg", "images/4.jpg"]' data-zs-overlay="dots">
+    <div id="demo-1"  data-zs-overlay="dots">
         <div class="demo-inner-content">
             <div class="header-top">
                <?php include_once('includes/header.php');?>
