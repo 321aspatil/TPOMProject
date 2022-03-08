@@ -131,7 +131,7 @@ while ($row=mysqli_fetch_array($ret)) {
                                     </div>
 
                                     <div class="col-lg-4 text-info-sec">
-                                        <img src="images/job-1.jpg" alt=" " class="img-fluid" />
+                                        <!--<img src="images/job-1.jpg" alt=" " class="img-fluid" />-->
                                     </div>
 
                                 </div>
